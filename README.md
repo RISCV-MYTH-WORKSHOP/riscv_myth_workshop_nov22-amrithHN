@@ -1,4 +1,4 @@
-# Documentation  RISC V core Based on TL verilog 
+# Documentation  RISC V core based on TL verilog 
 
 ## LAB SUBMISSION
 
