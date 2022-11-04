@@ -14,7 +14,7 @@
 
 ## About RISC V 
 RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration
-website: (RSIC-V website)[https://riscv.org/]
+  website: [RSIC-V website][https://riscv.org/]
 ![image](https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg)
 
 ## Learnings and Observation
