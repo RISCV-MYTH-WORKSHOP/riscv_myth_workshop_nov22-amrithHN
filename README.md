@@ -46,7 +46,7 @@ Installs Spike simulator and GCC toolchain required to  compile RISCV source cod
 
 ```$ spike -d pk <output_program> ```
   
-### Key Concepts
+## Key Concepts
 
 
 ## Conclusion
