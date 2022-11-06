@@ -8,14 +8,11 @@
 - Conclusion
 - Acknowledgement
 
-### DAY 1 & 2 : [Lab report](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/tree/master/Day2)
-
-### DAY 3-5 : [Lab report](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/tree/master/Day3_5)
+## LAB  reports
 
 |         |            |
 | ------------- |:-------------:| 
-| Day 1 & 2     | [Lab report](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/tree/master/Day2)
- |
+| Day 1 & 2     | [Lab report](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/tree/master/Day2)          |
 | Day 3 to 5     |  [Lab report](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/tree/master/Day3_5)      |
 
 
@@ -55,9 +52,16 @@ Installs Spike simulator and GCC toolchain required to  compile RISCV source cod
 ```$ spike -d pk <output_program> ```
   
 ## Key Concepts
-
+-- RISC V concepts like ISA ABI etc
+-- TL Verilog concepts
+-- Pipelining
+-- Validity
+-- Hierarchy and Arrays
+-- Micro architecture of CPU 
+-- Pipelining implementation
 
 ## Conclusion
+Implemented a RISC V core Using TL verilog in 5 days as a part of the Workshop learning key concepts . However the core is bare minimum the workshop helps to understand the underlying concepts clearly.
 
 ## Acknowledgement
 - [Kunal Ghosh, Co-founder](https://github.com/kunalg123), VSD Corp. Pvt. Ltd.
