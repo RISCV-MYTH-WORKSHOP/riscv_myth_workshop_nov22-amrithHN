@@ -1,14 +1,13 @@
 # Documentation  RISC V core based on TL verilog 
 ## Table of Contents
-- day 1 and 2 lab
-- day 3 - 5 lab
-- About RISCV
-- Learnings and Observation
-- Key Concepts
-- Conclusion
-- Acknowledgement
+- [Lab Report](#LAB-reports)
+- [About RISC V ](#About-RISC-V)
+- [Learnings and Observation](#Learnings-and-Observation)
+- [Key Concepts](#Key-Concepts)
+- [Conclusion](#Conclusion)
+- [Acknowledgement](#Acknowledgement)
 
-## LAB  reports
+## LAB reports
 
 |         |            |
 | ------------- |:-------------:| 
@@ -17,7 +16,7 @@
 
 
 
-## About RISC V 
+## About RISC V
 RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration
   website: [RSIC-V website][https://riscv.org/]
 ![image](https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg)
@@ -52,13 +51,13 @@ Installs Spike simulator and GCC toolchain required to  compile RISCV source cod
 ```$ spike -d pk <output_program> ```
   
 ## Key Concepts
--- RISC V concepts like ISA ABI etc
--- TL Verilog concepts
--- Pipelining
--- Validity
--- Hierarchy and Arrays
--- Micro architecture of CPU 
--- Pipelining implementation
+- RISC V concepts like ISA ABI etc
+- TL Verilog concepts
+- Pipelining
+- Validity
+- Hierarchy and Arrays
+- Micro architecture of CPU 
+- Pipelining implementation
 
 ## Conclusion
 Implemented a RISC V core Using TL verilog in 5 days as a part of the Workshop learning key concepts . However the core is bare minimum the workshop helps to understand the underlying concepts clearly.
