@@ -15,10 +15,10 @@ Implemented Calculator with pipeline and validity , also added memory to retain 
 
 
 ## Day 4
-- Implemented Risc V without pipeline
+![image](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/blob/master/Day3_5/Screenshot%20from%202022-11-06%2018-01-39.png)
 
 
 
 ## Day 5
 - Implemented Risc V micro architecture with pipeline
-
+![mage](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/blob/master/Day3_5/Screenshot%20from%202022-11-06%2017-57-48.png)
