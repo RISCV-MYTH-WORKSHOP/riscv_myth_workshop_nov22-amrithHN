@@ -12,6 +12,14 @@
 
 ### DAY 3-5 : [Lab report](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/tree/master/Day3_5)
 
+|         |            |
+| ------------- |:-------------:| 
+| Day 1 & 2     | [Lab report](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/tree/master/Day2)
+ |
+| Day 3 to 5     |  [Lab report](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_nov22-amrithHN/tree/master/Day3_5)      |
+
+
+
 ## About RISC V 
 RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration
   website: [RSIC-V website][https://riscv.org/]
